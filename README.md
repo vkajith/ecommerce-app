@@ -10,7 +10,7 @@ A modern e-commerce application built with Next.js, TypeScript, and Tailwind CSS
 
 1. Clone the repository:
 bash
-git clone https://github.com/yourusername/ecommerce-app.git
+git clone https://github.com/vkajith/ecommerce-app.git
 cd ecommerce-app
 
 2. Install dependencies:
